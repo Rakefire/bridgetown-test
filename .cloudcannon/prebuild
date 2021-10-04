@@ -1,0 +1,7 @@
+#!/bin/bash
+
+npm install yarn
+gem install bundler bridgetown -N
+
+bundle install
+yarn install
