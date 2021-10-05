@@ -1,5 +1,6 @@
 # Bridgetown
-output
+output/
+_site/
 .bridgetown-cache
 .bridgetown-metadata
 .bridgetown-webpack
