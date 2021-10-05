@@ -1,3 +1,8 @@
+PATH
+  remote: jekyll-shim
+  specs:
+    jekyll-shim (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -106,6 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 0.21.3)
+  jekyll-shim!
 
 BUNDLED WITH
    2.2.27
