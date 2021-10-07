@@ -6,7 +6,7 @@
 // when an update is applied hence we strongly recommend adding overrides to
 // `webpack.config.js` instead of editing this file.
 //
-// Shipped with Bridgetown v0.21.3
+// Shipped with Bridgetown v0.21.4
 
 const path = require("path");
 const rootDir = path.resolve(__dirname, "..")

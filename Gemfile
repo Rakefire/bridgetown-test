@@ -15,5 +15,4 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 #   bundle add some-new-plugin -g bridgetown_plugins
 #
 # Happy Bridgetowning!
-
-gem "bridgetown", "~> 0.21.3"
+gem "bridgetown", "~> 0.21.4"
