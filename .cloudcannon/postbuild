@@ -1,0 +1,7 @@
+#!/bin/bash
+
+yarn deploy
+
+# copy files
+mkdir -p /usr/local/__site/compiled
+cp -R output/* /usr/local/__site/compiled
