@@ -4,4 +4,4 @@ yarn deploy
 
 # copy files
 mkdir -p /usr/local/__site/compiled
-cp -R _site/* /usr/local/__site/compiled
+cp -R output/* /usr/local/__site/compiled

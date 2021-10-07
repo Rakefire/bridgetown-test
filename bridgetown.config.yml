@@ -26,4 +26,4 @@ permalink: pretty
 # pagination:
 #   enabled: true
 
-destination: _site
+destination: output
